@@ -48,7 +48,7 @@ If you intentionally have local changes in this repo, allow update anyway:
 
 - URL opener (Linux): `google-chrome-stable`
 - URL opener (macOS): `firefox`
-- macOS app-launch PATH fix: `exe_search_path /opt/homebrew/bin:/usr/local/bin:/run/current-system/sw/bin`
+- macOS app-launch PATH fix: `exe_search_path /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin`
 - Layout: `grid`
 - Window nav: `ctrl+shift+right` / `ctrl+shift+left`
 - Opacity: `0.95`
