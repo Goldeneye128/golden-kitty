@@ -49,6 +49,7 @@ If you intentionally have local changes in this repo, allow update anyway:
 - URL opener (Linux): `google-chrome-stable`
 - URL opener (macOS): `firefox`
 - macOS app-launch PATH fix: `exe_search_path /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin`
+- macOS title bar: hidden with `hide_window_decorations titlebar-only`; terminal tabs remain available. Restart Kitty after changing this setting.
 - Layout: `grid`
 - Window nav: `ctrl+shift+right` / `ctrl+shift+left`
 - Opacity: `0.95`
